@@ -1,6 +1,7 @@
-name: Explore Repository
+ name: Explore Repository
  on:
   push:
+  
  jobs:
   explore:
     runs-on: ubuntu-latest
